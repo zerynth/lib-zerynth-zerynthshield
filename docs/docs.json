@@ -1,0 +1,8 @@
+{
+	"version":"0.3.0",
+	"title":"Zerynth Shield",
+	"copyright":"Zerynth Team",
+	"files":[
+		["Zerynth Shield","zerynthshield.py"]
+	]
+}
