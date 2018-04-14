@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "lib.zerynth.smartsensors": "r2.1.0"
+        "lib.zerynth.smartsensors": "r2.1.1"
     },
     "description": "Driver for the Zerynth shield",
     "fullname": "lib.zerynth.zerynthshield",
@@ -17,6 +17,6 @@
     ],
     "repo": "official",
     "title": "Zerynth Shield Library",
-    "version": "r2.1.0",
+    "version": "r2.1.1",
     "whatsnew": ""
 }
