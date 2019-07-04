@@ -1,0 +1,13 @@
+---
+description: Driver for the Zerynth shield
+fullname: lib.zerynth.zerynthshield
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth Shield Library
+    type: Sensor and Actuator
+keywords:
+- toi
+- sensor
+title: Zerynth Shield Library
+...
